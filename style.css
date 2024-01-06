@@ -1,0 +1,43 @@
+.heading {
+    font-size: 23px;
+
+    width: 100%;
+    margin: 0px;
+}
+
+#status {
+    font-size: 18px;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#b1,
+#b2,
+#b3,
+#b4,
+#b5,
+#b6 {
+    background-image:url("");
+    border: none;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 5px;
+
+}
+#b1:hover,#b2:hover,#b3:hover,#b4:hover,#b5:hover,#b6:hover{
+    background-image:url("wallpaper1");
+}
+a {
+    color: darkblue;
+  }
+  a:hover {
+    color: whitesmoke;
+  }
